@@ -2,8 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Portfolio Site
+- 🔭 I’m currently working on ... Pokedex Site in Vuetify
 - 🌱 I’m currently learning ... Vuetify
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Only 5% of the ocean has been explored.
 -->
