@@ -2,6 +2,5 @@
 
 
 - 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Vuetify and Vue Auth
-- ⚡ Fun fact: ... Only 5% of the ocean has been explored.
+- 🌱 I’m currently learning ... TypeScript
 
