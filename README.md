@@ -2,8 +2,8 @@
 ---
 
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... TypeScript
+- 🔭 I’m currently working on my Portfolio site... 
+- 🌱 I’m currently learning ... NextJS 13
 
 ### Stats
 ---
