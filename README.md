@@ -2,8 +2,8 @@
 ---
 
 
-- 🔭 I’m currently working on my Portfolio site... 
-- 🌱 I’m currently learning ... NextJS 13
+- 🔭 I’m currently working on React Native Delivery App... 
+- 🌱 I’m currently learning ... React Native & NextJS 13
 
 ### Stats
 ---
